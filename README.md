@@ -1,2 +1,8 @@
 # hello-world
-As always, first thing that is done while learning to code. :)
+=============
+
+Hi Martians!
+
+GuDaMa here. Had stew on the Mars, find it more comforting than the Irish one.
+
+
